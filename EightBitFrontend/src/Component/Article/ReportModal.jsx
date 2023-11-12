@@ -440,6 +440,7 @@ const CompleteText = styled.span
     `
     font-size: 37px;
     font-weight: bold;
+    color: black;
 `
 
 const ReportFormBtnBox = styled.div
